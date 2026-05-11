@@ -13,6 +13,8 @@
 
 PasteCB is a smart clipboard for **macOS**, optimized for working with agents. It cuts vision token usage by **29% to 59%** on every image you copy.
 
+**Download:** [PasteCB-v0.9.0.zip](https://github.com/macosfy/PasteCB/releases/download/v0.9.0/PasteCB-v0.9.0.zip) · [Release v0.9.0](https://github.com/macosfy/PasteCB/releases/tag/v0.9.0)
+
 ---
 
 ## Evals
